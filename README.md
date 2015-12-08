@@ -10,24 +10,24 @@
 
 ## 必备技能
 
-![](img/1.jpg)
+![](img/1.png)
 
 ## Step1: 使用less编写
 
 less
 
-![](img/4.jpg)
+![](img/4.png)
 
 ## Step2: 切块
 
 以section切块
 
 
-![](img/2.jpg)
+![](img/2.png)
 
 ## Step3: 块内布局
 
-![](img/3.jpg)
+![](img/3.png)
 
 ## Step4: 实现细节
 
